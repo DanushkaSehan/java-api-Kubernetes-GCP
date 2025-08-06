@@ -1,0 +1,7 @@
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: java-api-ns-danushka
+  labels:
+    name: java-api-ns-danushka
+    environment: production
